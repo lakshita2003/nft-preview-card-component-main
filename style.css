@@ -1,0 +1,17 @@
+img{
+    max-width: 400px;
+    max-height: 400px;
+}
+body{
+    background-color: #0d192b;
+    display: flex; 
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+
+}
+.card{
+    display:grid;
+    place-items: center;
+}
+
